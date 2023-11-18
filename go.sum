@@ -199,6 +199,7 @@ github.com/v2fly/v2ray-core v4.15.0+incompatible h1:jHEKDQbfHWrmv158NV6z9SaFxCBj
 github.com/v2fly/v2ray-core v4.15.0+incompatible/go.mod h1:epN2U0U1wJttla319Jy2mbBt4oSGymOR+BN8wZRNITA=
 github.com/v2fly/v2ray-core/v5 v4.35.2-0.20210312001040-0ae9ba5247e8 h1:hhzjWDRNEGz5Nv0ZltoK+63ShY/gyE12t3cg0F5xj40=
 github.com/v2fly/v2ray-core/v5 v4.35.2-0.20210312001040-0ae9ba5247e8/go.mod h1:Q0J1b2q/Ptt9GYd0nYSol/ZOEdR42TPSutMff05sXEw=
+github.com/v2fly/v2ray-core/v5 v5.11.0/go.mod h1:o4G6VGWp7uLp96YE9V6CxJcNOVqepwbWHBEA1vXE5TU=
 github.com/v2ray/v2ray-core v4.21.0+incompatible h1:ZA+dZzOGZZVBTgzyr1SzKVdAfZcvwiGSgsOvOCs97ZA=
 github.com/v2ray/v2ray-core v4.21.0+incompatible/go.mod h1:rw5MmNP8dVqdNLK/NMLeZqWntBGOESa11nSv+LZevKM=
 github.com/vcptr/v2ray-core/v4 v4.21.2 h1:a+CoQSVv+wd9a10rqpHgk/YNMbuNlPsJD/c6Veb+Xmw=
@@ -252,6 +253,8 @@ golang.org/x/mobile v0.0.0-20200329125638-4c31acba0007 h1:JxsyO7zPDWn1rBZW8FV5RF
 golang.org/x/mobile v0.0.0-20200329125638-4c31acba0007/go.mod h1:skQtrUTUwhdJvXM/2KKJzY8pDgNr9I/FOMqDVRPBUS4=
 golang.org/x/mobile v0.0.0-20210220033013-bdb1ca9a1e08 h1:h+GZ3ubjuWaQjGe8owMGcmMVCqs0xYJtRG5y2bpHaqU=
 golang.org/x/mobile v0.0.0-20210220033013-bdb1ca9a1e08/go.mod h1:skQtrUTUwhdJvXM/2KKJzY8pDgNr9I/FOMqDVRPBUS4=
+golang.org/x/mobile v0.0.0-20231108233038-35478a0c49da h1:gS9sVMAeHM+gVBmM9bTM6vUi/NHv58O3QzJ3vjjN84M=
+golang.org/x/mobile v0.0.0-20231108233038-35478a0c49da/go.mod h1:IEceR0jfVklLJXrbUe90rfdAFAYDW0SQwKl4qvO1GBQ=
 golang.org/x/mod v0.1.0/go.mod h1:0QHyrYULN0/3qlju5TqG8bIK38QM8yzMo5ekMj3DlcY=
 golang.org/x/mod v0.1.1-0.20191105210325-c90efee705ee/go.mod h1:QqPTAvyqsEbceGzBzNggFXnrqF1CaUcvgkdR5Ot7KZg=
 golang.org/x/mod v0.1.1-0.20191209134235-331c550502dd h1:ePuNC7PZ6O5BzgPn9bZayERXBdfZjUYoXEf5BTfDfh8=
@@ -319,6 +322,9 @@ golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7w
 golang.org/x/sys v0.0.0-20210305230114-8fe3ee5dd75b/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20210309074719-68d13333faf2 h1:46ULzRKLh1CwgRq2dC5SlBzEqqNCi8rreOZnNrbqcIY=
 golang.org/x/sys v0.0.0-20210309074719-68d13333faf2/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.13.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/sys v0.14.0 h1:Vz7Qs629MkJkGyHxUlRHizWJRG2j8fbQKjELVSNhy7Q=
+golang.org/x/sys v0.14.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
 golang.org/x/term v0.0.0-20201117132131-f5c789dd3221/go.mod h1:Nr5EML6q2oocZ2LXRh80K7BxOlk5/8JxuGnuhpl+muw=
 golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1/go.mod h1:bj7SfCRtBDWHUb9snDiAeCFNEtKQo2Wmx5Cou7ajbmo=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
